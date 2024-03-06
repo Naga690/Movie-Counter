@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+# Movie Trailer Display
+
+## Description
+This React application displays a collection of movie trailers, presenting each with its title, release date, and description. The app fetches data from an array of movie objects and dynamically renders the movie cards. While the "Book here" button is provided, it's currently for demonstration purposes only and does not have booking functionality implemented.
+
+## Installation
+To install and run the project locally:
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Run `npm start` to start the development server.
+
+## Usage
+- Navigate to the deployed application.
+- Explore the movie collection.
+- Click on movie cards to view details.
+
+## Contributing
+Contributions are welcome! Feel free to fork this repository, make changes, and submit pull requests.
+
+## Credits
+- React: [https://reactjs.org/](https://reactjs.org/)
+- Pixabay (for video URLs): [https://pixabay.com/videos/](https://pixabay.com/videos/)
+
+## License
+This project is for educational purposes and is not licensed for commercial use. You are free to view and study the code, but you may not distribute, modify, or use it for commercial purposes without explicit permission from the author. Attribution to the original author, Nagalakshmi K (knlakshmi690@gmail.com), is required if you use any part of this code in your own projects. For more information, contact Nagalakshmi K at knlakshmi690@gmail.com.
+
+
